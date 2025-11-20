@@ -37,3 +37,5 @@ next-env.d.ts
 
 # build logs
 build.log
+build-approval.log
+*.log
